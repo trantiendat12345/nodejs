@@ -1,0 +1,6 @@
+npm init: khoi tao thu project
+npm install express: install package-lock.json va node_modules
+npm i nodemon --save-dev: install nodemon trong project
+them "start": "nodemon --inspect index.js" vao package.json
+run project = npm start
+npm i morgan: cai morgan de logger qua trinh chay
